@@ -1,6 +1,8 @@
 # lab-module-name-change
 change the name of a module in every sections' data.json
 
+**repo:** `git clone https://github.com/kospreay-jm/lab-module-name-change.git`
+
 ### to initiate
 1. create venv: `python -m venv venv`
 2. activate venv; Mac: `source venv/bin/activate` or Windows: `.\venv\Scripts\activate`
