@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1716,"text":"In this question, we are asked to add the fractions by first changing them to equivalent fractions using the LCD of 20."},{"start":9866,"text":"Let's start with 2/5."},{"start":12750,"text":"We can change 2/5 to an equivalent fraction with the denominator of 20"},{"start":17166,"text":"by multiplying the denominator and numerator by 4."},{"start":21250,"text":"5 X 4 = 20, and 2 X 4 = 8."},{"start":26866,"text":"And for 1/4, we can change it to an equivalent fraction with the denominator of 20"},{"start":31533,"text":"by multiplying the denominator and numerator by 5."},{"start":35966,"text":"4 X 5 = 20, and 1 X 5 = 5."},{"start":41300,"text":"Now, both fractions have the same denominator, so it's easier to add."},{"start":46350,"text":"8/20 + 5/20 = 13/20."},{"start":51000,"text":"So, our final answer is 13/20."},{"start":54300,"text":"Good job!"}]}]};
+    window.globalLoadJsAsset('story_content/6UJOxYRLE43_transcripts.js', JSON.stringify(data));
+})();

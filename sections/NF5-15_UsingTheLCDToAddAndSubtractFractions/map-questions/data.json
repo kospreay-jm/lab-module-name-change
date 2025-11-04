@@ -1,0 +1,123 @@
+{
+    "module": "new name here",
+    "lesson": "Adding and Subtracting Fractions Using the LCM",
+    "section": "Using the LCD to Add and Subtract Fractions",
+    "questions": [
+        {
+            "id": "Q1",
+            "type": "fill-simple",
+            "statement": "Add the fractions. First change to equivalent fractions by finding the Lowest Common Denominator (LCD).",
+            "image": "Q1.png",
+            "rawAnswer": null,
+            "exercises": [
+                {
+                    "question": "2/5 + 1/4 = [x]/[x] + [x]/[x] = [x]/[x]",
+                    "answer": [
+                        "8",
+                        "20",
+                        "5",
+                        "20",
+                        "13",
+                        "20"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Q2",
+            "type": "fill-simple",
+            "statement": "Add the fractions. First change to equivalent fractions by finding the Lowest Common Denominator (LCD).",
+            "image": null,
+            "rawAnswer": null,
+            "exercises": [
+                {
+                    "question": "1/6 + 3/4  LCD = [x]",
+                    "answer": "12"
+                },
+                {
+                    "question": "1/6 + 3/4 = [x]/[x] + [x]/[x] = [x]/[x]",
+                    "answer": [
+                        "2",
+                        "12",
+                        "9",
+                        "12",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Q3",
+            "type": "fill-simple",
+            "statement": "Subtract the fractions. First change to equivalent fractions by finding the Lowest Common Denominator (LCD).",
+            "image": null,
+            "rawAnswer": null,
+            "exercises": [
+                {
+                    "question": "2/3 \u2212 4/9  LCD = [x]",
+                    "answer": "9"
+                },
+                {
+                    "question": "2/3 \u2212 4/9 = [x]/[x] + [x]/[x] = [x]/[x]",
+                    "answer": [
+                        "6",
+                        "9",
+                        "4",
+                        "9",
+                        "2",
+                        "9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Q4",
+            "type": "fill-simple",
+            "statement": "Add the fractions. First change to equivalent fractions by finding the Lowest Common Denominator (LCD).",
+            "image": null,
+            "rawAnswer": null,
+            "exercises": [
+                {
+                    "question": "3/8 + 1/6  LCD = [x]",
+                    "answer": "24"
+                },
+                {
+                    "question": "3/8 + 1/6 = [x]/[x] + [x]/[x] = [x]/[x]",
+                    "answer": [
+                        "9",
+                        "24",
+                        "4",
+                        "24",
+                        "13",
+                        "24"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Q5",
+            "type": "fill-simple",
+            "statement": "Subtract the fractions. First change to equivalent fractions by finding the Lowest Common Denominator (LCD).",
+            "image": null,
+            "rawAnswer": null,
+            "exercises": [
+                {
+                    "question": "6/7 \u2212 1/4  LCD = [x]",
+                    "answer": "28"
+                },
+                {
+                    "question": "6/7 \u2212 1/4 = [x]/[x] + [x]/[x] = [x]/[x]",
+                    "answer": [
+                        "24",
+                        "28",
+                        "7",
+                        "28",
+                        "17",
+                        "28"
+                    ]
+                }
+            ]
+        }
+    ]
+}

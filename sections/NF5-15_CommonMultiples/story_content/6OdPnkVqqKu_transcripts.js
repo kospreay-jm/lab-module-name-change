@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1080,"text":"And for the second statement,\r\nwe want to find out which set of numbers"},{"start":5433,"text":"are multiples of both 3 and 8."},{"start":8480,"text":"Well, for the first option,\r\nwe know that zero is a multiple of all"},{"start":13377,"text":"whole numbers."},{"start":14920,"text":"16 is a multiple of 8,\r\nbut it is not a multiple of 3."},{"start":19520,"text":"If we skip count by 3s,\r\nwe will not say 16."},{"start":24600,"text":"For the second option,\r\nwe know that zero is a multiple of all"},{"start":29023,"text":"whole numbers and 24 is a multiple of\r\nboth 3 and 8."},{"start":33680,"text":"If we skip count by either 3 or 8,\r\nwe will say 24."},{"start":38520,"text":"So the correct answer is therefore 0 and\r\n24."},{"start":43840,"text":"Good job."}]}]};
+    window.globalLoadJsAsset('story_content/6OdPnkVqqKu_transcripts.js', JSON.stringify(data));
+})();
