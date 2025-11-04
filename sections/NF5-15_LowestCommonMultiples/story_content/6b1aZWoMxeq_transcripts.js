@@ -1,5 +1,0 @@
-
-(function() {
-    const data = {"transcripts":[{"name":"captions","cues":[{"start":1516,"text":"In this question, we want to find the LCM of 4 and 6."},{"start":5850,"text":"First, we will list the multiples of 4 not including 0."},{"start":9883,"text":"4, 8, 12 and so on."},{"start":12833,"text":"Next, we will list the multiples of 6 not including 0."},{"start":16816,"text":"6, 12, 18 and so on."},{"start":20200,"text":"The common multiples from the lists are 12 and 24."},{"start":24850,"text":"Well, which of these two numbers is the lowest?"},{"start":28400,"text":"That's right, it's 12."},{"start":30483,"text":"Therefore, the lowest common multiple of 4 and 6 is 12."},{"start":34700,"text":"Well done!"}]}]};
-    window.globalLoadJsAsset('story_content/6b1aZWoMxeq_transcripts.js', JSON.stringify(data));
-})();

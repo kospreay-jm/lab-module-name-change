@@ -1,5 +1,0 @@
-
-(function() {
-    const data = {"transcripts":[{"name":"captions","cues":[{"start":1933,"text":"The first multiple of 9 we will list is 9."},{"start":4950,"text":"Is this a multiple of 4?"},{"start":7950,"text":"No, because we cannot multiply 4 by a whole number to get 9."},{"start":12350,"text":"The next multiple is 18, but it's not a multiple of 4 either."},{"start":18050,"text":"Next, we have 27. Is this a multiple of 4?"},{"start":22500,"text":"No, it isn't."},{"start":24716,"text":"Well, what about 36?"},{"start":26950,"text":"Is this a multiple of 4?"},{"start":29783,"text":"Well, yes, 4 X 9 = 36."},{"start":33700,"text":"So, the lowest common multiple of 4 and 9 is 36."},{"start":37633,"text":"Outstanding!"}]}]};
-    window.globalLoadJsAsset('story_content/6gLilzlBhXK_transcripts.js', JSON.stringify(data));
-})();
