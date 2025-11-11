@@ -1,0 +1,96 @@
+{
+    "module": "new name 2008",
+    "lesson": "Repeated Addition",
+    "section": "Addition Sentences",
+    "questions": [
+        {
+            "id": "Q1",
+            "type": "fill-simple",
+            "statement": "Write an addition sentence for the picture below.",
+            "image": "Q1.png",
+            "rawAnswer": null,
+            "exercises": [
+                {
+                    "question": "[x]×[x]÷[x]−[x]+[x]-[x]=[x]",
+                    "answer": [
+                        "3",
+                        "3",
+                        "6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Q2",
+            "type": "fill-simple",
+            "statement": "Write an addition sentence for the picture below.",
+            "image": "Q2.png",
+            "rawAnswer": null,
+            "exercises": [
+                {
+                    "question": "[x]+[x]+[x]+[x]=[x]",
+                    "answer": [
+                        "2",
+                        "2",
+                        "2",
+                        "2",
+                        "8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Q3",
+            "type": "fill-simple",
+            "statement": "Write an addition sentence for the picture below.",
+            "image": "Q3.png",
+            "rawAnswer": null,
+            "exercises": [
+                {
+                    "question": "[x]+[x]=[x]",
+                    "answer": [
+                        "4",
+                        "4",
+                        "8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Q4",
+            "type": "fill-simple",
+            "statement": "Write an addition sentence for the picture below.",
+            "image": "Q4.png",
+            "rawAnswer": null,
+            "exercises": [
+                {
+                    "question": "[x]+[x]+[x]=[x]",
+                    "answer": [
+                        "4",
+                        "4",
+                        "4",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Q5",
+            "type": "fill-simple",
+            "statement": "Write an addition sentence for the picture below.",
+            "image": "Q5.png",
+            "rawAnswer": null,
+            "exercises": [
+                {
+                    "question": "[x]+[x]+[x]=[x]",
+                    "answer": [
+                        "3",
+                        "3",
+                        "3",
+                        "9"
+                    ]
+                }
+            ]
+        }
+    ]
+}

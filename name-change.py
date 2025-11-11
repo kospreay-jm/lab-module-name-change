@@ -41,7 +41,7 @@ def update_module_name(sections_dir, new_module_name):
                 data['module'] = new_module_name
 
                 with open(data_json_path, 'w', encoding='utf-8') as f:
-                    json.dump(data, f, indent=4)
+                    json.dump(data, f, indent=4, ensure_ascii=False)
 
                 print(f"  ✅ Updated {subdir.name} to {new_module_name}")
 
@@ -67,6 +67,6 @@ if __name__ == "__main__":
     script_dir = Path(__file__).parent
     sections_directory = script_dir / "sections"
 
-    new_module_name = "new name here"
+    new_module_name = "new name 2008"
 
     update_module_name(sections_directory, new_module_name)
